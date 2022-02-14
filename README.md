@@ -1,5 +1,5 @@
 # deep_bot
-Chatbot criado em python com interpretação e aprendizado de machine learning.
+Chatbot criado em python com interpretação de linguagem natural e aprendizado de maquina.
 
 #Bibliotecas utilizadas
 
