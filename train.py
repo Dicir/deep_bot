@@ -109,4 +109,4 @@ model.compile(loss='categorical_crossentropy',optimizer=sgd, metrics=['accuracy'
 m = model.fit(np.array(x), np.array(y), epochs=200, batch_size=5, verbose=1)
 model.save('model.h5', m)
 
-print("fim")
+print("fim do treinamento")
